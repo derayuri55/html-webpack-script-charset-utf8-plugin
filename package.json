@@ -1,0 +1,20 @@
+{
+  "name": "html-webpack-script-charset-utf8-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derayuri55/html-webpack-script-charset-utf8-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derayuri55/html-webpack-script-charset-utf8-plugin/issues"
+  },
+  "homepage": "https://github.com/derayuri55/html-webpack-script-charset-utf8-plugin#readme"
+}
