@@ -4,7 +4,7 @@ class HtmlWebpackScriptCharsetUtf8Plugin {
       "HtmlWebpackScriptCharsetUtf8Plugin",
       compilation => {
         compilation.hooks.htmlWebpackPluginAlterAssetTags.tapAsync(
-          "myPlugin",
+          "HtmlWebpackScriptCharsetUtf8Plugin",
           (data, cb) => {
             if (data.head.length) {
               data.head.forEach(tag => {
